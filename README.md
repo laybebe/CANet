@@ -1,2 +1,2 @@
 # CANet
-This the is offical implement of CANet.
+This the is offical implementation of CANet：Class attention network for image recognition.
