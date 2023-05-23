@@ -1,2 +1,2 @@
 # CANet
-This is offical implement of CANet
+This the is offical implement of CANet.
